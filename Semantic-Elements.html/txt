@@ -1,0 +1,6 @@
+Semantic Elements
+
+When constructing an HTML script, the term “semantic” refers to the meaning of the text. Semantics, to put it simply, is the use of HTML tags that accurately reflect the content they contain. For instance, using the <div> tag doesn’t suggest the content it will carry, however using the <p> tag suggests it can be used to hold paragraph information. 
+
+There are a lot of reasons why you should write Semantic tags instead of normal HTML tags, to leverage SEO, accessibility, and browser compatibility. Non sematic and sematic syntax
+

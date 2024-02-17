@@ -1,0 +1,7 @@
+. Audio and Video Support
+
+One of the many HTML 5 features is the support for audio and video. It has reduced the hassle of relying upon third-party services such as Adobe Flash player. To embed Audio and Video into your HTML document, you may use the following two tags, <audio> and <video> tags. 
+
+These two tags are launched with the release of HTML 5 and support a numerous range of attributes such as height, width, and more that offers developers to leverage the customization of HTML documents. 
+
+Now let’s take an example and add audio and video using these tags to our HTML website. 
