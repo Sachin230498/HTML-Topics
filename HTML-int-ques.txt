@@ -1,0 +1,118 @@
+1. What is 1st thing you saw when you visit the 
+   website
+   UI - look great
+   work fast
+   user experience
+
+2. what is Web development ?
+   Web development refers to the process of building and maintaining websites and web applications.
+   It involves various aspects such as web design, front-end development, back-end development, and 
+   server-side scripting.
+
+3. why web development ?
+   everything thing is going digital so if everything is 
+   digital so web development play crusial role 
+   Subscription model , metaverse , browser OS
+
+4. What is Key Components of Web Development?
+   Html CSS and JavaScript
+
+5. What is Data ?
+   Role of data on the web.
+    • Data plays a key role in our life. There could be a lot of sources from 
+      where data can be generated like Meteorological Data, Natural Data, 
+      Financial Data, etc.
+    • When we use applications like Facebook, Instagram, Twitter, Whatsapp, 
+      etc, we use to spend a lot of time. Hence, we are generating the data.
+    • The data is used by the companies, so they can generate some valuable 
+      information like in the case of Amazon, they will generate offers for you 
+      based on your shopping histor
+    
+6. What is Database ?
+
+7. Frontend vs Backend vs Database Interaction ?
+
+8. What is HTML
+   HTML, or Hypertext Markup Language, is the standard markup language used to create and design
+   documents on the World Wide Web. It provides the structure and content of web pages by using 
+   a system of tags and attributes.
+
+   Here's a short breakdown of HTML:
+
+   Hypertext: HTML allows for the creation of hypertext documents, which are documents containing hyperlinks
+              that connect to other documents or resources on the web.
+
+   Markup Language: HTML uses markup tags to define elements within a document, such as headings, paragraphs,
+                 lists, links, images, and more. These tags indicate how the content should be structured and
+                 displayed in a web browser.
+
+   Structure: HTML provides the basic structure for web pages, including elements for headings, paragraphs, 
+              lists, tables, forms, and more. It allows you to organize and present content in a logical and 
+              hierarchical manner.
+
+   Semantics: HTML also incorporates semantic elements that describe the meaning of the content, making it more
+              accessible to both humans and search engines. Semantic elements like <header>, <nav>, <main>,
+              <footer>, <article>, <section>, and <aside> provide additional context to the content of a web page.
+
+  Overall, HTML serves as the foundation for web development, providing the structure and content of web pages 
+  that are then styled and enhanced using CSS (Cascading Style Sheets) and made interactive using JavaScript.
+
+
+
+9.  History of HTML
+    HTML was created by Sir Tim Berners-Lee in late 1991.
+    Before he created HTML, he used to send research documents via email.
+    To make it easier for scientists at different universities to gain access to each other's
+    documents, he created HTML.
+
+
+10. Why has HTML become so popular and why not MS docs
+    User-friendly
+    Very lightweight
+    Easy to learn
+    Easy to integrate with all browsers
+
+11. So is HTML a programming language or not?
+
+12. What are HTML tags?
+    We use HTML tags for placing the elements in the proper and appropriate format. 
+    Tags use the symbols <, and > to set them apart from the HTML content.
+
+     The HTML tags need not be closed always. For example, in the case of images, the closing tags
+     are not required as <img> tag.
+
+13. What is an element in HTML?
+    An element in HTML is a set of tags that define a specific part of a web page.
+    It consists of a start tag, content, and an end tag.
+
+14. What are HTML Attributes?
+    Attributes are the properties that can be added to an HTML tag. These attributes change the way
+    the tag behaves or is displayed. For example, a <img> tag has an src attribute, which you use to
+    add the source from which the image should be displayed.
+
+    We add attributes right after the name of the HTML tag, inside the brackets. We can only add the
+    attributes to opening or self-closing tags, but never be in closing tags.
+
+
+15. Are the HTML tags and elements the same thing?
+    No, HTML tags are used to define the structure of a web page, while HTML elements
+    are made up of a set of tags that define a specific part of a web page.
+
+16. What are HTML Entities?
+    HTML Entities are special characters used to represent characters that cannot be typed on a keyboard. 
+    They are often used to display special symbols and foreign characters. 
+
+    HTML entities start with an ampersand (&) and end with a semicolon (;). Here are some commonly used HTML entities:
+
+    &amp; - Represents the ampersand character (&).
+    &lt; - Represents the less-than symbol (<).
+    &gt; - Represents the greater-than symbol (>).
+    &quot; - Represents the double quotation mark (").
+    &apos; - Represents the single quotation mark or apostrophe ('). Note: This entity is not
+              supported in HTML 4.01, but is supported in HTML5.
+    &nbsp; - Represents a non-breaking space.
+    &copy; - Represents the copyright symbol (©).
+    &reg; - Represents the registered trademark symbol (®).
+    &trade; - Represents the trademark symbol (™).
+    &euro; - Represents the Euro currency symbol (€).
+

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sample HTML Page</title>
+  </head>
+  <body>
+    <header>
+      <h1>This is a Heading</h1>
+    </header>
+
+    <nav>
+      <ul style="display: flex; justify-content: space-around">
+        <li><a href="#section1">Section 1</a></li>
+        <li><a href="#section2">Section 2</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <section id="section1">
+        <h2>Section 1</h2>
+        <p>This is a paragraph.</p>
+
+        <a href="https://www.example.com">This is a link</a>
+
+        <br />
+        <br />
+
+        <video width="500px" controls>
+          <source
+            src="./AV-Clips/human_feeding_the_little_squirrel (Original).mp4"
+            type="video/mp4"
+          />
+          Your browser does not support the video tag.
+        </video>
+
+        <br />
+        <br />
+
+        <audio controls>
+          <source
+            src="./AV-Clips/dark-engine-logo-141942.mp3"
+            type="audio/mpeg"
+          />
+          Your browser does not support the audio element.
+        </audio>
+
+        <br />
+        <br />
+
+        <img
+          style="width: 200px"
+          src="./Pictures/istockphoto-1352603244-1024x1024.jpg"
+          alt="Example Image"
+        />
+
+        <form action="#" method="post">
+          <h2>Signup Form</h2>
+          <label for="username">Username:</label><br />
+          <input type="text" id="username" name="username" required /><br />
+          <label for="email">Email:</label><br />
+          <input type="email" id="email" name="email" required /><br />
+          <label for="password">Password:</label><br />
+          <input type="password" id="password" name="password" required /><br />
+          <label for="confirm_password">Confirm Password:</label><br />
+          <input
+            type="password"
+            id="confirm_password"
+            name="confirm_password"
+            required
+          /><br />
+          <input type="submit" value="Sign Up" />
+        </form>
+
+        <br />
+        <br />
+
+        <h2>Input Elements</h2>
+
+        <form action="#" method="post">
+          <label for="email">Email:</label><br />
+          <input type="email" id="email" name="email" required /><br />
+
+          <label for="password">Password:</label><br />
+          <input type="password" id="password" name="password" required /><br />
+
+          <label for="color">Favorite Color:</label><br />
+          <input type="color" id="color" name="color" /><br />
+
+          <label for="birthdate">Birthdate:</label><br />
+          <input type="date" id="birthdate" name="birthdate" /><br />
+
+          <label for="file">Upload File:</label><br />
+          <input type="file" id="file" name="file" /><br />
+
+          <p>Choose your subscription plan:</p>
+          <input type="radio" id="basic" name="subscription" value="basic" />
+          <label for="basic">Basic</label><br />
+          <input
+            type="radio"
+            id="premium"
+            name="subscription"
+            value="premium"
+          />
+          <label for="premium">Premium</label><br />
+          <input
+            type="radio"
+            id="enterprise"
+            name="subscription"
+            value="enterprise"
+          />
+          <label for="enterprise">Enterprise</label><br />
+
+          <input type="submit" value="Checkout" />
+        </form>
+
+        <br />
+
+        <address>
+          123 Main Street<br />
+          City, State 12345<br />
+          Country
+        </address>
+
+        <br />
+
+        <canvas
+          id="myCanvas"
+          width="200"
+          height="100"
+          style="border: 1px solid black"
+        ></canvas>
+
+        <br />
+        <br />
+        <blockquote>This is a blockquote.</blockquote>
+        <br />
+        <br />
+
+        <figure>
+          <img
+            style="width: 400px"
+            src="./Pictures/istockphoto-1352603244-1024x1024.jpg"
+            alt="Example Image"
+          />
+          <figcaption>This is a caption for the image</figcaption>
+        </figure>
+
+        <br />
+        <center>This is centered text</center>
+        <br />
+
+        <br />
+        <code>This is a code snippet</code>
+        <br />
+
+        <data value="12345">12345</data>
+
+        <br />
+        <br />
+
+        <col width="100" />
+        <datalist id="browsers">
+          <option value="Chrome"></option>
+          <option value="Firefox"></option>
+          <option value="Edge"></option>
+          <option value="Safari"></option>
+          <option value="Opera"></option>
+        </datalist>
+
+        <dir>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+        </dir>
+
+        <br />
+        <br />
+        <br />
+
+        <map name="workmap">
+          <area
+            shape="rect"
+            coords="34,44,270,350"
+            alt="Computer"
+            href="computer.htm"
+          />
+        </map>
+
+        <br />
+        <br />
+        <br />
+
+        <option value="volvo">Volvo</option>
+        <select name="cars" id="cars">
+          <option value="volvo">Volvo</option>
+          <option value="saab">Saab</option>
+          <option value="fiat">Fiat</option>
+          <option value="audi">Audi</option>
+        </select>
+
+        <br />
+        <br />
+        <br />
+
+        <time datetime="2024-02-16">February 16, 2024</time>
+      </section>
+
+      <section id="section2">
+        <h2>Section 2</h2>
+        <!-- Add content for section 2 -->
+      </section>
+    </main>
+
+    <footer>
+      <p>This is a footer</p>
+    </footer>
+  </body>
+</html>
